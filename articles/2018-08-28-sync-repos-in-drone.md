@@ -61,6 +61,7 @@ docker run -d -v /some/local/config:/config bketelsen/captainhook
 
 当用户请求 repos 列表（通过 UI 或 API）时，如果之前的同步超过 72 小时，它将触发同步。
 
+[https://github.com/drone/drone/blob/master/server/user.go#L79](https://github.com/drone/drone/blob/master/server/user.go#L79)
 ```golang
 func GetRepos(c *gin.Context) {
 	// ...
