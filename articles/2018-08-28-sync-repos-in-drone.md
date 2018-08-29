@@ -1,5 +1,7 @@
 # Drone 同步 repos 的策略研讨和源码分析
 
+>原文链接：[Drone 同步 repos 的策略研讨和源码分析](https://maiyang.me/post/2018-08-28-sync-repo-in-drone/)
+
 本文是来自于社群中一位小伙伴对于 Drone 使用过程中遇到的问题的答疑，延伸出来的一篇策略探讨和源码分析，希望能对你有所帮助。
 
 ----
