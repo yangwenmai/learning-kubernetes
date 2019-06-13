@@ -8,15 +8,16 @@
 
 [learning-kubernetes Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-kubernetes)
 
-主要是对 Kubernetes、ServiceMesh(Istio) 、Drone 等进行实战，以及相关问题的讨论总结。
+主要是对 Kubernetes、ServiceMesh(Istio) 等的学习和实战总结。
 
 >学习计划：一起学习，一起总结，一起分享！
 
-如果想加入 *Kubernetes ServiceMesh Drone* 学习突击队的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
+如果想加入 *Kubernetes & ServiceMesh* 学习突击队的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
 
 ## Kubernetes 常见总结
 
 - [k8s 常用脚本](./scripts/README.md)
+- [kubernetes 翻船事故汇总](https://k8s.af/)
 
 ## 技术总结
 
